@@ -3558,7 +3558,7 @@
 					"name": "TZ"
 				}
 			],
-			"image": "linuxserver/jellyfin:latest",
+			"image": "jellyfin/jellyfin",
 			"logo": "https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/jellyfin.png",
 			"name": "jellyfin",
 			"platform": "linux",
